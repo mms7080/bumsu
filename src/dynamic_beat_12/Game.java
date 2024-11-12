@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 
 public class Game extends Thread{
 	
-		// 노트이미지 test
+		// 노트이미지
 		private Image noteBasicImage= new ImageIcon(Main.class.getResource("../images/noteBasic.jpg")).getImage();
 		// 노트라우트 라인
 		private Image noteRouteLineImage= new ImageIcon(Main.class.getResource("../images/noteRouteLine.png")).getImage();
