@@ -22,7 +22,7 @@ public class DynamicBeat extends JFrame{
 	private Image screenImage;
 	private Graphics screenGraphic; // 더블버퍼링 
 	
-
+	 //test
 	// exit 버튼이미지
 	private ImageIcon exitButtonImage = new ImageIcon(Main.class.getResource("../images/exit.png"));
 	private ImageIcon exitButtonImage2 = new ImageIcon(Main.class.getResource("../images/exit2.png"));
